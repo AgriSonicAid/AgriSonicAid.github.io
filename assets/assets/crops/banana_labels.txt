@@ -1,0 +1,10 @@
+0 Banana bacterial soft rot
+1 Banana aphids
+2 Banana fruit scarring beetle
+3 Banana black sigatoka
+4 Banana panama disease
+5 Banana pseudostem weevil
+6 Banana yellow sigatoka
+7 Banana potassium deficiency
+8 Healthy banana
+9 Background without leaves/crops
