@@ -1,0 +1,4 @@
+class_labels = ['Apple___healthy',
+          	'Apple___Black_rot',
+          	'Apple___Apple_scab'
+	       ]
